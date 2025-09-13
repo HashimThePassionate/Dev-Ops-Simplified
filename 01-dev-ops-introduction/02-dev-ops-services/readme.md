@@ -4,6 +4,19 @@ Welcome to the lesson on modern DevOps in the Cloud. This guide explains how int
 
 ---
 
+<details>
+<summary><strong>📋 Table of Contents</strong></summary>
+
+- [**DevOps in the Cloud ☁️**](#devops-in-the-cloud-️)
+  - [**Why the Cloud is the Perfect Home for DevOps 🏡**](#why-the-cloud-is-the-perfect-home-for-devops-)
+  - [**The Unmistakable Advantages of Cloud DevOps 🚀**](#the-unmistakable-advantages-of-cloud-devops-)
+  - [**A Look Inside the DevOps Cloud Service 🛠️**](#a-look-inside-the-devops-cloud-service-️)
+  - [**The Core Benefits that Drive Results ✨**](#the-core-benefits-that-drive-results-)
+
+</details>
+
+---
+
 ## **Why the Cloud is the Perfect Home for DevOps 🏡**
 
 In today's fast-paced digital world, DevOps automation is becoming increasingly cloud-centric. Major cloud providers systematically support DevOps on their platforms, offering a powerful suite of tools for **Continuous Integration** and **Continuous Delivery**. This tight integration offers two major advantages: it significantly lowers the cost of on-premises automation and provides a centralized system for better governance and control.
