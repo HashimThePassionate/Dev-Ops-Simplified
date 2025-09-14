@@ -84,16 +84,16 @@ The 12-factor app methodology, developed by Heroku in 2011, is a set of 12 best 
    - **Microservices Alignment**: Disposability ensures microservices can recover quickly from crashes, maintaining a valid state.
 
 ### 10. Dev/Prod Parity
-    - **Principle**: Keep development, staging, and production environments as similar as possible to reduce bugs in later stages. Containers ensure consistent execution environments across all stages.
-    - **Microservices Alignment**: Consistent environments support reliable testing and deployment for microservices.
+ - **Principle**: Keep development, staging, and production environments as similar as possible to reduce bugs in later stages. Containers ensure consistent execution environments across all stages.   
+- **Microservices Alignment**: Consistent environments support reliable testing and deployment for microservices.
 
 ### 11. Logs
-    - **Principle**: Treat logs as event streams, directing them to a centralized location rather than storing them in files. Observability and monitoring tools enhance visibility into application behavior.
-    - **Microservices Alignment**: Centralized logging is critical for troubleshooting and understanding user behavior in distributed microservices systems.
+- **Principle**: Treat logs as event streams, directing them to a centralized location rather than storing them in files. Observability and monitoring tools enhance visibility into application behavior.
+- **Microservices Alignment**: Centralized logging is critical for troubleshooting and understanding user behavior in distributed microservices systems.
 
 ### 12. Admin Processes
-    - **Principle**: Separate administrative tasks (e.g., data cleanup, analytics, A/B testing) from the main application to prevent interference with running services.
-    - **Microservices Alignment**: Isolating admin tasks ensures that microservices remain focused on their core business logic.
+- **Principle**: Separate administrative tasks (e.g., data cleanup, analytics, A/B testing) from the main application to prevent interference with running services.
+- **Microservices Alignment**: Isolating admin tasks ensures that microservices remain focused on their core business logic.
 
 ## Benefits of Microservices Architecture
 
