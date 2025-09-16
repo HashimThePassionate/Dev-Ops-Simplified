@@ -2,13 +2,10 @@
 
 This guide demonstrates how to create and configure an Oracle Cloud Infrastructure (OCI) Container Instance to run a fully functional WordPress site with both a WordPress container (pulled from Docker Hub) and a MySQL container (pulled from OCI Container Registry, OCIR). It walks through the setup process using the OCI Console, focusing on basic details, networking, and advanced configuration options.
 
-## 📋 Table of Contents
-
 <details>
-<summary>Click to expand/collapse</summary>
+<summary>📋 Table of Contents</summary>
 
 - [**Getting Started with OCI Container Instances: Creating a WordPress Site**](#getting-started-with-oci-container-instances-creating-a-wordpress-site)
-  - [📋 Table of Contents](#-table-of-contents)
   - [Introduction](#introduction)
   - [Prerequisites](#prerequisites)
   - [Step-by-Step Instructions](#step-by-step-instructions)
