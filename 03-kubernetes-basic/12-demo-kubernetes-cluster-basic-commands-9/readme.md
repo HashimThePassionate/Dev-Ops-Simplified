@@ -14,6 +14,8 @@
 
 </details>
 
+<br/>
+
 This guide covers `kubectl` commands for managing and inspecting nodes in a Kubernetes cluster, demonstrated using the OCI Cloud Shell with an Oracle Kubernetes Engine (OKE) cluster (e.g., OKE-DEMO-1). These commands focus on retrieving node details, resource allocations, and pod distributions across nodes.
 
 ## Prerequisites
