@@ -1,4 +1,4 @@
-# **Network Resource Configuration for Custom OKE Cluster Setup**
+# **Network Resource Configuration for Custom OKE Cluster Setup** 
 
 <details>
 <summary><strong>📋 Table of Contents</strong></summary>
